@@ -10,7 +10,8 @@ body {
 }
 
 /* sass preprocessor vars - runs on compile/convert from scss to css 
-    Remember make all changes in scss file then compile - dont change css only change source scss */
+    Remember make all changes in scss file then compile - dont change css only change source scss 
+     note the style.css.map intermediary file an object conversion file for faster compiling of scss to css */
 .cont {
   position: relative;
   overflow: hidden;
