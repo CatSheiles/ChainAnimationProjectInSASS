@@ -9,7 +9,7 @@ This isn’t an entire website, but it could easily be. This template has a five
 - the animation is complex in sass but very cool!
 - could easily convert or add to this base project
 
-Capture of main scree - doesn't show animations though
+Capture of main screen - doesn't show animations though
 
 ![title](mainPageCapture.PNG)
 
